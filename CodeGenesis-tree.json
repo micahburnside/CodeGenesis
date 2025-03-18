@@ -1,0 +1,112 @@
+﻿{
+    "Name":  "CodeGenesis",
+    "Type":  "Folder",
+    "Children":  [
+                     {
+                         "Name":  "configs",
+                         "Type":  "Folder",
+                         "Children":  [
+                                          {
+                                              "Name":  "languages",
+                                              "Type":  "Folder",
+                                              "Children":  [
+                                                               {
+                                                                   "Name":  "c.py",
+                                                                   "Type":  "File"
+                                                               },
+                                                               {
+                                                                   "Name":  "java.py",
+                                                                   "Type":  "File"
+                                                               },
+                                                               {
+                                                                   "Name":  "javascript.py",
+                                                                   "Type":  "File"
+                                                               },
+                                                               {
+                                                                   "Name":  "python.py",
+                                                                   "Type":  "File"
+                                                               },
+                                                               {
+                                                                   "Name":  "__init__.py",
+                                                                   "Type":  "File"
+                                                               }
+                                                           ]
+                                          },
+                                          {
+                                              "Name":  "licenses",
+                                              "Type":  "Folder",
+                                              "Children":  [
+                                                               {
+                                                                   "Name":  "mit.txt",
+                                                                   "Type":  "File"
+                                                               },
+                                                               {
+                                                                   "Name":  "__init__.py",
+                                                                   "Type":  "File"
+                                                               }
+                                                           ]
+                                          },
+                                          {
+                                              "Name":  "__init__.py",
+                                              "Type":  "File"
+                                          }
+                                      ]
+                     },
+                     {
+                         "Name":  ".gitignore",
+                         "Type":  "File"
+                     },
+                     {
+                         "Name":  "CodeGenesis-tree.json",
+                         "Type":  "File"
+                     },
+                     {
+                         "Name":  "CodeGenesis.txt",
+                         "Type":  "File"
+                     },
+                     {
+                         "Name":  "file_creator.py",
+                         "Type":  "File"
+                     },
+                     {
+                         "Name":  "github_manager.py",
+                         "Type":  "File"
+                     },
+                     {
+                         "Name":  "git_manager.py",
+                         "Type":  "File"
+                     },
+                     {
+                         "Name":  "gui.py",
+                         "Type":  "File"
+                     },
+                     {
+                         "Name":  "gui_manager.py",
+                         "Type":  "File"
+                     },
+                     {
+                         "Name":  "LICENSE",
+                         "Type":  "File"
+                     },
+                     {
+                         "Name":  "logger.py",
+                         "Type":  "File"
+                     },
+                     {
+                         "Name":  "main.py",
+                         "Type":  "File"
+                     },
+                     {
+                         "Name":  "menu_manager.py",
+                         "Type":  "File"
+                     },
+                     {
+                         "Name":  "README.md",
+                         "Type":  "File"
+                     },
+                     {
+                         "Name":  "utils.py",
+                         "Type":  "File"
+                     }
+                 ]
+}

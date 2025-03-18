@@ -1,0 +1,26 @@
+﻿└── CodeGenesis
+    ├── configs
+    │   ├── languages
+    │   │   ├── c.py
+    │   │   ├── java.py
+    │   │   ├── javascript.py
+    │   │   ├── python.py
+    │   │   └── __init__.py
+    │   ├── licenses
+    │   │   ├── mit.txt
+    │   │   └── __init__.py
+    │   └── __init__.py
+    ├── .gitignore
+    ├── CodeGenesis-tree.json
+    ├── CodeGenesis.txt
+    ├── file_creator.py
+    ├── github_manager.py
+    ├── git_manager.py
+    ├── gui.py
+    ├── gui_manager.py
+    ├── LICENSE
+    ├── logger.py
+    ├── main.py
+    ├── menu_manager.py
+    ├── README.md
+    └── utils.py
